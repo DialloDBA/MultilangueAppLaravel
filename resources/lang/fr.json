@@ -1,0 +1,9 @@
+{
+    "Name" : "Nom Utilisateur",
+    "E-Mail Address" : "Adresse E-mail",
+    "Password" : "Mot de Passe",
+    "Register" : "S'inscrire",
+    "Login" : "Se Connecter",
+    "Laravel" : "Application Laravel",
+    "Dashboard": "Tableau de Bord"
+}
